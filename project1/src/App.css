@@ -1,0 +1,63 @@
+.card{
+    border-radius: 5px;
+    border: none;
+    box-shadow: rgba(0,0,0,0.1) 0px 4px 12px;
+    flex-wrap: wrap;
+}
+.packages .card img{
+    border-radius: 5px;
+}
+.packages .card .card-body{
+    background: transparent;
+    
+}
+ .card .card-body h3{
+    font-size: 25px;
+    font-weight: 600;
+}
+.packages .card .card-body p{
+    font-size: 15px;
+}
+.checked{
+    color: #ffa500;
+}
+.star i{
+    font-size: 15px;
+}
+ .card .card-body h6{
+    font-size: 20px;
+}
+ .card .card-body a{
+    padding: 10px;
+    text-decoration: none;
+    background: #ffa500;
+    color: white;
+    border-radius: 5px;
+}
+.card1{
+    margin-top: 20px;
+}
+
+.Services{
+    background: #f9f9f9;
+    margin-top: 50px;
+}
+ .card5{
+    box-shadow: rgba(0,0,0,0.1) 0px 4px 12px;
+    border: none;
+    cursor: pointer;
+}
+ .card5 i{
+    font-size: 80px;
+    text-align: center;
+    color: #ffa500;
+    margin-top: 20px;
+    padding-left: 140px;
+    
+}
+ .card5 .card-body1 h3{
+    font-weight: 600;
+}
+ .card5 .card-body1{
+    text-align: center;
+}
